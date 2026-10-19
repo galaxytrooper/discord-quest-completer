@@ -4,7 +4,7 @@
     /* ── config (Safe for users to edit) ────────────────────────── */
 
     const CONFIG = {
-        NAME: "Orion",
+        NAME: "daddy",
         VERSION: "v4.11.5",
         THEME: "#5865F2",             // discord blurple
         SUCCESS: "#3BA55C",
